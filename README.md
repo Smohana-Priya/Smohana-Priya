@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smohana-priya" alt="smohana-priya" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter projects**
+- 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Flutter.**
+- 👯 I’m looking to collaborate with **Other Developers**
 
-- 👯 I’m looking to collaborate **with other developers**
+- 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m looking for help with **junior Flutter developer**
+- 💬 Ask me about **Mobile App Development**
 
-- 💬 Ask me about **Mobile development**
+- 🤝 I’m looking for help with **Junior Developer**
 
 - 📫 How to reach me **smohanapriya2604@gmail.com**
 
